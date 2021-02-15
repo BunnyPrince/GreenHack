@@ -1,0 +1,2 @@
+language: HTML, JavaScript, CSS
+script: ant compile
