@@ -2,4 +2,6 @@ language:
 - HTML 
 - JavaScript 
 - CSS
-script: ant compile
+- node_js
+node_js:
+- 14.15.4
