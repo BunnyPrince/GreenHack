@@ -36,6 +36,13 @@ main {
   margin: 0 auto -50px;
     padding-bottom: 80px;
 }
+/*class*/
+/*.name_of_class{}*/
+/*id*/
+/*#name_id{}*/
+#hello{
+    background-color: red;
+}
 .footer,
 .push {
   height: 50px;
