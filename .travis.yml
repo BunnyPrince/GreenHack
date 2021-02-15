@@ -1,2 +1,5 @@
-language: HTML, JavaScript, CSS
+language: 
+- HTML 
+- JavaScript 
+- CSS
 script: ant compile
