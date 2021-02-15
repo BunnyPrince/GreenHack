@@ -1,10 +1,7 @@
-language: 
-- HTML 
-- JavaScript 
-- CSS
-- node_js
-- mongodb
+language: node_js
+
 node_js:
-- 14.15.4
-mongodb:
-- 4.4.3
+- node
+- 'lts/*'
+
+cache: npm
